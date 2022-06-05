@@ -1,0 +1,1 @@
+rootProject.name = "com.my_site.my_ktor_project"
